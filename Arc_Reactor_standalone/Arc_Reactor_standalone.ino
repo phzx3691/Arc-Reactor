@@ -1,7 +1,8 @@
-// Arc Reactor Sheldon McLeod Oct 2014
+//Arc Reactor animation 
+//Sheldon McLeod Oct 2015
 //Fades lights and transitions collor pallete
-// also uses a potentiomer to control brightness
-//Used Neopixel rings 24,16,8
+//Also uses a potentiomer to control brightness
+//Uses Neopixel rings 24,16,12,8
 
 #include "FastLED.h"
 
